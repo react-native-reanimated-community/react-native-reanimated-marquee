@@ -1,0 +1,22 @@
+{
+  "name": "@react-native-reanimated-community/react-native-reanimated-marquee-example",
+  "displayName": "ReactNativeReanimatedMarquee Example",
+  "expo": {
+    "name": "@react-native-reanimated-community/react-native-reanimated-marquee-example",
+    "slug": "react-native-reanimated-community-react-native-reanimated-marquee-example",
+    "description": "Example app for @react-native-reanimated-community/react-native-reanimated-marquee",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
