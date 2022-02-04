@@ -1,21 +1,21 @@
 {
   "files": {
-    "app.js": "/static/js/app.e6a41dc5.chunk.js",
-    "app.js.map": "/static/js/app.e6a41dc5.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
-    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.0809eac2.chunk.js": "/static/js/2.0809eac2.chunk.js",
-    "static/js/2.0809eac2.chunk.js.map": "/static/js/2.0809eac2.chunk.js.map",
-    "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.0809eac2.chunk.js.LICENSE.txt": "/static/js/2.0809eac2.chunk.js.LICENSE.txt",
-    "static/media/TransparentSwatch.png": "/static/media/TransparentSwatch.3689fd00.png",
-    "static/media/gradientOverlay.png": "/static/media/gradientOverlay.7d102364.png"
+    "app.js": "/react-native-reanimated-marquee/static/js/app.e6a41dc5.chunk.js",
+    "app.js.map": "/react-native-reanimated-marquee/static/js/app.e6a41dc5.chunk.js.map",
+    "runtime~app.js": "/react-native-reanimated-marquee/static/js/runtime~app.43df1198.js",
+    "runtime~app.js.map": "/react-native-reanimated-marquee/static/js/runtime~app.43df1198.js.map",
+    "static/js/2.ff59c356.chunk.js": "/react-native-reanimated-marquee/static/js/2.ff59c356.chunk.js",
+    "static/js/2.ff59c356.chunk.js.map": "/react-native-reanimated-marquee/static/js/2.ff59c356.chunk.js.map",
+    "index.html": "/react-native-reanimated-marquee/index.html",
+    "manifest.json": "/react-native-reanimated-marquee/manifest.json",
+    "serve.json": "/react-native-reanimated-marquee/serve.json",
+    "static/js/2.ff59c356.chunk.js.LICENSE.txt": "/react-native-reanimated-marquee/static/js/2.ff59c356.chunk.js.LICENSE.txt",
+    "static/media/TransparentSwatch.png": "/react-native-reanimated-marquee/static/media/TransparentSwatch.3689fd00.png",
+    "static/media/gradientOverlay.png": "/react-native-reanimated-marquee/static/media/gradientOverlay.7d102364.png"
   },
   "entrypoints": [
-    "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.0809eac2.chunk.js",
+    "static/js/runtime~app.43df1198.js",
+    "static/js/2.ff59c356.chunk.js",
     "static/js/app.e6a41dc5.chunk.js"
   ]
 }
