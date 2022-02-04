@@ -1,6 +1,7 @@
 {
     "name": "@react-native-reanimated-community/react-native-reanimated-marquee-example",
     "description": "Example app for @react-native-reanimated-community/react-native-reanimated-marquee",
+    "homepage": "https://react-native-reanimated-community.github.io/react-native-reanimated-marquee/",
     "version": "0.0.1",
     "private": true,
     "main": "index",
@@ -25,7 +26,7 @@
         "react-native": "0.63.4",
         "react-native-gesture-handler": "~1.10.2",
         "react-native-reanimated": "~2.2.0",
-        "react-native-reanimated-carousel": "^2.2.5-beta.2",
+        "react-native-reanimated-carousel": "^2.2.5-beta.3",
         "react-native-screens": "~3.4.0",
         "react-native-ui-lib": "^6.8.1",
         "react-native-unimodules": "~0.14.5",
