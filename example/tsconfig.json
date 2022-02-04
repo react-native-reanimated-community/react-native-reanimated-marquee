@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@/*": ["./src/*"],
+            "@react-native-reanimated-community/react-native-reanimated-marquee": [
+                "../src/index"
+            ]
+        }
+    },
+    "extends": "../tsconfig.json"
+}
