@@ -84,7 +84,7 @@ const Index: React.FC<{ text: string }> = ({ text }) => {
                             autoPlayInterval={0}
                             data={[...new Array(6).keys()]}
                             renderItem={() => textElement}
-                            panGestureHandlerProps={{ enabled: false }}
+                            enabled={false}
                         />
                     </View>
                 );

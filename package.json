@@ -130,7 +130,7 @@
         ]
     },
     "dependencies": {
-        "react-native-reanimated-carousel": "^2.2.5-beta.2"
+        "react-native-reanimated-carousel": "^2.3.0"
     },
     "config": {
         "commitizen": {
